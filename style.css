@@ -60,7 +60,10 @@ main>div {
     border-radius: 0px px 0px 20px; 
     margin: 20px auto;
     display: block;
-    
+}
+iframe{
+    border: 5px;
+    border-radius: 5px;
 }
 main>nav{
     text-align: right;
@@ -69,10 +72,13 @@ main>nav{
     min-width: 300px;
     max-width: 800px;
     float: right;
-
 }
 .imagem{
     margin-bottom: 60px;
+}
+img{
+    border: 5px;
+    border-radius: 5px;
 }
 
 
